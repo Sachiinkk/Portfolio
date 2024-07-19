@@ -176,27 +176,23 @@ export const skills = [
 ];
 
 export const experiences = [
-  //   {
-  //     id: 0,
-  //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //     role: "DevOps & Fullstack Engineering Intern",
-  //     company: "Flipr Inovations Pvt. Ltd.",
-  //     date: "Aug 2023 - July 2023",
-  //     desc: "Working on Flipr Platforms, managing DevOps, and streamlining the process with automation.",
-  //     skills: [
-  //       "Docker",
-  //       "Terraform",
-  //       "AWS",
-  //       "EC2",
-  //       "Portainer",
-  //       "Nginx",
-  //       "JavaScript",
-  //       "TypeScript",
-  //       "Node Js",
-  //       " Next Js",
-  //     ],
-  //     doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  //   },
+  {
+    id: 0,
+    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    role: " Fullstack Engineering Intern",
+    company: "Design Innovation Centre , Panjab University ",
+    date: "june 2023 - July 2023",
+    desc: "worked on an e-commerce website project aimed at providing users with a seamless online shopping experience",
+    skills: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express",
+    ],
+  },
   //   {
   //     id: 0,
   //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
@@ -215,69 +211,7 @@ export const experiences = [
   //     ],
   //     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
   //   },
-  //   {
-  //     id: 1,
-  //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-  //     role: "Fullstack Externship",
-  //     company: "Flipr",
-  //     date: "June 2023 - July 2023",
-  //     desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
-  //     skills: [
-  //       "ReactJS",
-  //       "Redux",
-  //       "NodeJs",
-  //       "Material UI",
-  //       "HTML",
-  //       "CSS",
-  //       "JavaScript",
-  //       "Docker",
-  //       "AWS",
-  //       "MongoDB",
-  //     ],
-  //   },
-  //   {
-  //     id: 2,
-  //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-  //     role: "Open Source Contributor ",
-  //     company: "GirlScript Summer of Code",
-  //     date: "May 2023 - Present",
-  //     desc: "Contributing to different open-source projects and learn from industry experts",
-  //     doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-  //   },
-  //   {
-  //     id: 3,
-  //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-  //     role: "Android Developer",
-  //     company: "DSC KIIT",
-  //     date: "Nov2021 - Present",
-  //     desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
-  //     skills: [
-  //       "Leadership",
-  //       "Mobile Application Development",
-  //       "Kotlin",
-  //       "XML",
-  //       "Figma",
-  //     ],
-  //   },
-  //   {
-  //     id: 4,
-  //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-  //     role: "Android Developer Intern",
-  //     company: "Rudraksha Welffare Foundation",
-  //     date: "June 2021 - Oct 2021",
-  //     desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-  //     skills: [
-  //       "Android",
-  //       "Java",
-  //       "Kotlin",
-  //       "XML",
-  //       "Node Js",
-  //       "Cloud Firestore",
-  //       "Firebase",
-  //       "Figma",
-  //     ],
-  //     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  //   },
+  //
 ];
 
 export const education = [
@@ -313,6 +247,26 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 3,
+    title: "J.N. Hospitl",
+    date: "july 2024 - july 2024",
+    description:
+      "I developed a comprehensive hospital management web application with a focus on both frontend and backend development. The frontend is built using React to ensure a seamless and user-friendly interface, while the backend is implemented with Node.js. MongoDB is used for efficient data storage and management. The application features a responsive design that ensures accessibility across desktops, tablets, and mobile devices. It includes intuitive navigation to simplify access to various sections such as doctor registration, appointment booking, and user profiles. Doctors can register by providing necessary details such as name, specialization, and contact information and can manage their profiles and update their availability for appointments. Users can register and manage their profiles, view available doctors, and book time slots for consultations. They also have the ability to view, reschedule, or cancel their appointments. The use of modern web technologies ensures a robust and scalable solution, aiming to streamline hospital management processes by providing an efficient platform for doctor registration and patient appointment booking.",
+    image:
+      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+    tags: [
+      "React",
+      "React-Redux",
+      "Antd Libary",
+      "Express.js",
+      "MongoDB",
+      "Node.js",
+    ],
+    category: "web app",
+    github: "https://github.com/Sachiinkk/J.N.-Hospital",
+    // webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+  },
   {
     id: 9,
     title: "Goonj 2024",
@@ -366,46 +320,33 @@ export const projects = [
     github: "https://github.com/Sachiinkk/Movix",
     webapp: "https://vercel.com/sachiinkks-projects/movix",
   },
-  // {
-  //   id: 2,
-  //   title: "Brain Tumor Detection",
-  //   date: "Jan 2023 - Mar 2023",
-  //   description:
-  //     "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
-  //   image:
-  //     "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-  //   tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-  //   category: "machine learning",
-  //   github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-  //   webapp: "https://brain-tumor.netlify.app/",
-  //   member: [
-  //     {
-  //       name: "Rishav Chanda",
-  //       img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-  //       linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  //       github: "https://github.com/rishavchanda/",
-  //     },
-  //     {
-  //       name: "Upasana Chaudhuri",
-  //       img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-  //       linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-  //       github: "https://github.com/upasana0710",
-  //     },
-  //   ],
-  // },
-  // {
-  //   id: 3,
-  //   title: "Buckoid",
-  //   date: "Dec 2021 - Apr 2022",
-  //   description:
-  //     "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
-  //   image:
-  //     "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-  //   tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Buckoid-Android-App",
-  //   webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  // },
+  {
+    id: 2,
+    title: "Foodie Ponit",
+    date: "June 2024 - June 2024",
+    description:
+      "worked on the frontend development of a food delivery application named Foodie-Point, aiming to provide users with a friendly and amazing interface. The project leverages React to create a seamless and engaging user experience for browsing, ordering, and tracking food deliverie",
+    image: "",
+    tags: ["React", "React-Redux"],
+    category: "web app",
+    github: "https://github.com/Sachiinkk/Foodie-point",
+    webapp: "https://foodie-point.vercel.app/",
+    // member: [
+    //   {
+    //     // name: "Sachin",
+    //     // img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+    //     // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+    //     // github: "https://github.com/rishavchanda/",
+    //   },
+    //   {
+    //     // name: "Upasana Chaudhuri",
+    //     // img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //     // linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //     // github: "https://github.com/upasana0710",
+    //   },
+    // ],
+  },
+
   // {
   //   id: 10,
   //   title: "Job Finding App",

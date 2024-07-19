@@ -9,6 +9,7 @@ const Container = styled.div`
   position: relative;
   z-index: 1;
   align-items: center;
+  background: ${({ theme }) => theme.black};
 `;
 
 const Wrapper = styled.div`
@@ -59,7 +60,7 @@ const SkillsContainer = styled.div`
 const Skill = styled.div`
   width: 100%;
   max-width: 500px;
-  background: ${({ theme }) => theme.card};
+  background: ${({ theme }) => theme.black};
   border: 0.1px solid #854ce6;
   box-shadow: rgba(23, 92, 230, 0.15) 0px 4px 24px;
   border-radius: 16px;
@@ -115,35 +116,6 @@ const SkillImage = styled.img`
   width: 24px;
   height: 24px;
 `;
-
-// const Skills = () => {
-//   return (
-//     <Container id="skills">
-//       <Wrapper>
-//         <Title>Skills</Title>
-//         <Desc>
-//           Here are some of my skills on which I have been working on for the
-//           past 1.5 years.
-//         </Desc>
-//         <SkillsContainer>
-//           {skills.map((skill) => (
-//             <Skill>
-//               <SkillTitle>{skill.title}</SkillTitle>
-//               <SkillList>
-//                 {skill.skills.map((item) => (
-//                   <SkillItem>
-//                     <SkillImage src={item.image} />
-//                     {item.name}
-//                   </SkillItem>
-//                 ))}
-//               </SkillList>
-//             </Skill>
-//           ))}
-//         </SkillsContainer>
-//       </Wrapper>
-//     </Container>
-//   );
-// };
 
 const Skills = () => {
   return (

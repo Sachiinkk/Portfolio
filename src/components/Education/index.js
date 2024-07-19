@@ -14,7 +14,9 @@ const Container = styled.div`
   flex-direction: column;
   justify-content: center;
   position: relative;
+
   z-index: 1;
+  background: ${({ theme }) => theme.black};
   align-items: center;
   padding: 0px 0px 60px 0px;
   @media (max-width: 960px) {
