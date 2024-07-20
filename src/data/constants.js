@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sachiinkk",
   resume:
-    "https://drive.google.com/file/d/1HY8QruO0zdqHSxDBeT4nf2f3UdzOp8LA/view?usp=sharing",
+    "https://drive.google.com/file/d/195nO55ttwlo4nsFYcjz70-LsG6XYTCtc/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sachin-saroj-09045725a/",
   insta: "https://www.instagram.com/_.sachiin__/",
   facebook: "https://www.facebook.com/sachin.saroj.73345048/photos_by",
@@ -198,7 +198,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://private-user-images.githubusercontent.com/130601992/343964287-72817173-88d1-45de-83b3-9cc15eaeb149.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MjYwMTEsIm5iZiI6MTcxOTUyNTcxMSwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Mjg3LTcyODE3MTczLTg4ZDEtNDVkZS04M2IzLTljYzE1ZWFlYjE0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyN1QyMjAxNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jNmUwZGMwOTgxYTlhNmMzOWYzZjBmNTQwNzJhMDI3ZDg4ODgzMWE2ZDcwODFlMDJiNTMyNjZmNWU4NTdiMTZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Eaa_QM86CERoe-bpX35urw2U_xbJVYO3t34IwcjXvT8",
+    img: "https://private-user-images.githubusercontent.com/130601992/343964287-72817173-88d1-45de-83b3-9cc15eaeb149.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODEwNTYsIm5iZiI6MTcyMTQ4MDc1NiwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Mjg3LTcyODE3MTczLTg4ZDEtNDVkZS04M2IzLTljYzE1ZWFlYjE0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODdlNjNhNjc1Mjg4MmJmOGQ2MWJlOWI5MTk1MDA0YzhiYTU2ZTliNjIzN2ExNzZhYWYyMzg3ZmI0ZDExZDlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.UwtQNJpo1KK1dWggsTLyGbszeFcupE2sQucgsJvVLqc",
 
     school:
       "University  Institute of Engineering and  Technology, Panjab University, Chandigarh",
@@ -209,7 +209,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://private-user-images.githubusercontent.com/130601992/343964678-9317cbab-65e7-4d28-8318-1d78caae9214.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MjYxMzksIm5iZiI6MTcxOTUyNTgzOSwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Njc4LTkzMTdjYmFiLTY1ZTctNGQyOC04MzE4LTFkNzhjYWFlOTIxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyN1QyMjAzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04Mjk2Yzk1MDRjYmMyMDkxZDY0MzE5MTk3YWQ1Nzg1NTQzZTkxOWI2NmEzOWEzYjRiNzViOGU0MTA5MTljOTA5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yXGzPJpzsIIQ2tb7mVCbuuxmMR_G9YnCzG8EhKYZ1W0",
+    img: "https://private-user-images.githubusercontent.com/130601992/343964678-9317cbab-65e7-4d28-8318-1d78caae9214.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODExMTAsIm5iZiI6MTcyMTQ4MDgxMCwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Njc4LTkzMTdjYmFiLTY1ZTctNGQyOC04MzE4LTFkNzhjYWFlOTIxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDY5M2QxOTEwMDVhYzA2ZDdmYTJkNDg2ZDQ3NDU1ZDA0NGJiMzk1OWNhNjJmZTkzMjc5NzJiOTUxZWNjY2YyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nC5FXkkvlBt46nvB0LHAaDeN_wd6dqTi45q1LIGCyGk",
     school: "Shri Devi Prasad Intermediate College, Prayagraj",
     date: " july 2018 - march 2019",
     grade: "74%",
@@ -218,7 +218,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://private-user-images.githubusercontent.com/130601992/343964678-9317cbab-65e7-4d28-8318-1d78caae9214.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MjYxMzksIm5iZiI6MTcxOTUyNTgzOSwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Njc4LTkzMTdjYmFiLTY1ZTctNGQyOC04MzE4LTFkNzhjYWFlOTIxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyN1QyMjAzNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04Mjk2Yzk1MDRjYmMyMDkxZDY0MzE5MTk3YWQ1Nzg1NTQzZTkxOWI2NmEzOWEzYjRiNzViOGU0MTA5MTljOTA5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.yXGzPJpzsIIQ2tb7mVCbuuxmMR_G9YnCzG8EhKYZ1W0",
+    img: "https://private-user-images.githubusercontent.com/130601992/343964678-9317cbab-65e7-4d28-8318-1d78caae9214.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODExMTAsIm5iZiI6MTcyMTQ4MDgxMCwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Njc4LTkzMTdjYmFiLTY1ZTctNGQyOC04MzE4LTFkNzhjYWFlOTIxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDY5M2QxOTEwMDVhYzA2ZDdmYTJkNDg2ZDQ3NDU1ZDA0NGJiMzk1OWNhNjJmZTkzMjc5NzJiOTUxZWNjY2YyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nC5FXkkvlBt46nvB0LHAaDeN_wd6dqTi45q1LIGCyGk",
     school: "Shri Devi Prasad Intermediate College, Prayagraj",
     date: "Apr 2016 - Apr 2017",
     grade: "84%",
@@ -230,7 +230,7 @@ export const education = [
 export const projects = [
   {
     id: 3,
-    title: "J.N. Hospitl",
+    title: "J.N. Hospital",
     date: "july 2024 - july 2024",
     description:
       "I developed a comprehensive hospital management web application with a focus on both frontend and backend development. The frontend is built using React to ensure a seamless and user-friendly interface, while the backend is implemented with Node.js. MongoDB is used for efficient data storage and management. The application features a responsive design that ensures accessibility across desktops, tablets, and mobile devices. It includes intuitive navigation to simplify access to various sections such as doctor registration, appointment booking, and user profiles. Doctors can register by providing necessary details such as name, specialization, and contact information and can manage their profiles and update their availability for appointments. Users can register and manage their profiles, view available doctors, and book time slots for consultations. They also have the ability to view, reschedule, or cancel their appointments. The use of modern web technologies ensures a robust and scalable solution, aiming to streamline hospital management processes by providing an efficient platform for doctor registration and patient appointment booking.",
@@ -255,7 +255,7 @@ export const projects = [
     description:
       "Goonj is a comprehensive full stack project designed to provide a seamless interface for participants. Developed as a collaborative team effort, Goonj aims to facilitate efficient interaction and engagement through a user-friendly platform. The project integrates both front-end and back-end technologies, ensuring robust performance and a smooth user experience. Our goal was to create a reliable and accessible system that meets the needs of our participants effectively.",
     image:
-      "https://private-user-images.githubusercontent.com/130601992/343960894-63311b79-e323-43eb-bde0-c76ae91a2529.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MjUwNjksIm5iZiI6MTcxOTUyNDc2OSwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYwODk0LTYzMzExYjc5LWUzMjMtNDNlYi1iZGUwLWM3NmFlOTFhMjUyOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyN1QyMTQ2MDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNThhYjViYTNlZTVkZjBmY2VkYTdmMmUxMDUwNmI4Yjk5NDI5OTI0ZWFmODlkOWRkMmE5MzdlOWE5MTgxNmU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Y9aO5KM2VYT9JxVNcA9QlCpUATfnCnl2tVkSYb2YcjA",
+      "https://private-user-images.githubusercontent.com/130601992/343961755-2deffa93-ba4d-4991-9a58-821ff3650f73.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODA3NDUsIm5iZiI6MTcyMTQ4MDQ0NSwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxNzU1LTJkZWZmYTkzLWJhNGQtNDk5MS05YTU4LTgyMWZmMzY1MGY3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzAwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMmZjNTE4ZTQwZTAzMmRhZDA5MmM1YTg4YTgwMGEwYzYxNmM5OGQ3ODRmOWIxNzllMjUyZmUyNjNiNDI4ZjNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XHilZnZtuuiszK1gWNwxGdGk3UAaD_7A-zKgq6Tn6CA",
     tags: ["TypeScript", "javaScript", "SCSS"],
     category: "web app",
     github: "https://github.com/Sachiinkk/Goonj2024",
@@ -268,7 +268,7 @@ export const projects = [
     description:
       "amily Golf is an animated front-end website designed to provide an engaging and visually appealing experience. Created using HTML, CSS, and JavaScript, this project showcases dynamic animations and interactive elements that enhance user attraction. The goal of Family Golf is to offer a fun and immersive online environment that appeals to users of all ages, making it a standout example of effective web design and development.",
     image:
-      "https://private-user-images.githubusercontent.com/130601992/343961737-0cc3a36a-5e8e-49c0-8973-0f0ba13e4592.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MjUyNjMsIm5iZiI6MTcxOTUyNDk2MywicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxNzM3LTBjYzNhMzZhLTVlOGUtNDljMC04OTczLTBmMGJhMTNlNDU5Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyN1QyMTQ5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kN2E5OWYyZDc0ZTlhMDE0ZjhjNDllYzI3NzIzNjViNDAxMzMxOTgzOTFmMDFhOTMxODYxOTQ5M2Y5MDk4YmNhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gNlHMQwzAb0Si81hMA5FPiSWSNYcfx0uy3PBU9zynxE",
+      "https://private-user-images.githubusercontent.com/130601992/343961737-0cc3a36a-5e8e-49c0-8973-0f0ba13e4592.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODAzNzYsIm5iZiI6MTcyMTQ4MDA3NiwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxNzM3LTBjYzNhMzZhLTVlOGUtNDljMC04OTczLTBmMGJhMTNlNDU5Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMjU0MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTNkNzJlNzFhMGMxMjk4ZDU3MmYxMzA5OWI5MGQyYzFkZDdmZGI5MDQ3OTI3MDEyMjMyOTI5YTU5NDAxNTFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Bl0TnlSl-HXxnGRKrqoCFFFhhtBopFSxlq4Gndoyoo4",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Sachiinkk/Family-Golf",
@@ -295,7 +295,7 @@ export const projects = [
     description:
       "MOvix is a dynamic web application inspired by Netflix, developed using React and Redux for state management, with CSS for styling. This project aims to replicate the engaging and user-friendly interface of popular streaming services, providing users with a seamless browsing experience. MOvix demonstrates the power of modern web development technologies to create responsive and attractive interfaces, making it a compelling project for showcasing advanced front-end development skills",
     image:
-      "https://private-user-images.githubusercontent.com/130601992/343961995-fe9de95e-7100-49e5-9dc7-29fa8a2d8aee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTk1MjUzMzMsIm5iZiI6MTcxOTUyNTAzMywicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxOTk1LWZlOWRlOTVlLTcxMDAtNDllNS05ZGM3LTI5ZmE4YTJkOGFlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyN1QyMTUwMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMWViYzNiMTI0YmU0ZDA4ZTZjM2E3Nzg2YTI3MGYxZDE3MWIzMDhhNTUzZDRkZDg1ZGU0NTc1MTY1MGEyN2FkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fF4esZHFArZe5bZLob4oacPJCPQYarDlkYOW6auOVvk",
+      "https://private-user-images.githubusercontent.com/130601992/343961995-fe9de95e-7100-49e5-9dc7-29fa8a2d8aee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODA2NzgsIm5iZiI6MTcyMTQ4MDM3OCwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxOTk1LWZlOWRlOTVlLTcxMDAtNDllNS05ZGM3LTI5ZmE4YTJkOGFlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMjU5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODliNzE1OTQ0MzVhNmU0MDI4YmUxMWYwM2YyYTEzYWM4NjM1MThlMTA3NTA2Y2ZlMmI1NjVkODc4NzAxZjJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CcudpmWjNXfXdZrCrgEvmduxF7jXlP83L3MDB351Xm4",
     tags: ["React Js", "Redux"],
     category: "web app",
     github: "https://github.com/Sachiinkk/Movix",
@@ -307,7 +307,8 @@ export const projects = [
     date: "June 2024 - June 2024",
     description:
       "worked on the frontend development of a food delivery application named Foodie-Point, aiming to provide users with a friendly and amazing interface. The project leverages React to create a seamless and engaging user experience for browsing, ordering, and tracking food deliverie",
-    image: "",
+    image:
+      "https://private-user-images.githubusercontent.com/130601992/350693476-913af88f-8b6a-4bfc-95ca-46194ee82621.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODA5ODIsIm5iZiI6MTcyMTQ4MDY4MiwicGF0aCI6Ii8xMzA2MDE5OTIvMzUwNjkzNDc2LTkxM2FmODhmLThiNmEtNGJmYy05NWNhLTQ2MTk0ZWU4MjYyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA0NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTJiNjUwYTFlNDM2ZDc1YzY3NWViOTQ0ZmM3YTE1NDljODU4YWMxZDFmZWU1MmZjMWJjYjcwYjMzNzE3MjA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eSbktZUt8yYVyWeS0UjalxbNpHBnUeHvneYpBEb57MI",
     tags: ["React", "React-Redux"],
     category: "web app",
     github: "https://github.com/Sachiinkk/Foodie-point",
