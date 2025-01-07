@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Sachiinkk",
   resume:
-    "https://drive.google.com/file/d/195nO55ttwlo4nsFYcjz70-LsG6XYTCtc/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZJp00iee8SBvjM5UwBWRnuEO5B-u1UuW/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sachin-saroj-09045725a/",
   insta: "https://www.instagram.com/_.sachiin__/",
   facebook: "https://www.facebook.com/sachin.saroj.73345048/photos_by",
@@ -79,27 +79,14 @@ export const skills = [
       //   image: "https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg",
       // },
       {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-      },
-      {
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
       },
       {
-        name: "Postgresql",
-        image: "https://www.postgresql.org/media/img/about/press/elephant.png",
-      },
-      {
         name: "MongoDB",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
-      },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
     ],
   },
@@ -159,7 +146,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    // img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgD0UCkxCIqDQ5dShOmvUsqtYOTRJeUmahtg&s",
     role: " Fullstack Engineering Intern",
     company: "Design Innovation Centre , Panjab University ",
     date: "june 2023 - July 2023",
@@ -174,31 +161,21 @@ export const experiences = [
       "Express",
     ],
   },
-  //   {
-  //     id: 0,
-  //     img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-  //     role: "Frontend Engineer Intern",
-  //     company: "Neurobit",
-  //     date: "June 2023 - Present",
-  //     desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-  //     skills: [
-  //       "ReactJS",
-  //       "Redux",
-  //       "NodeJs",
-  //       "Material UI",
-  //       "HTML",
-  //       "CSS",
-  //       "JavaScript",
-  //     ],
-  //     doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
-  //   },
-  //
+  {
+    id: 0,
+    img: "https://i.imgur.com/iuaQOeS.png",
+    role: "Frontend Engineer Intern",
+    company: "crestbell",
+    date: "June 2024 - Aug 2024",
+    desc: "Working on the frontend of the web application using ReactJS, Redux.",
+    skills: ["ReactJS", "Redux", "HTML", "CSS", "JavaScript"],
+  },
 ];
 
 export const education = [
   {
     id: 0,
-    img: "https://private-user-images.githubusercontent.com/130601992/343964287-72817173-88d1-45de-83b3-9cc15eaeb149.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODEwNTYsIm5iZiI6MTcyMTQ4MDc1NiwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Mjg3LTcyODE3MTczLTg4ZDEtNDVkZS04M2IzLTljYzE1ZWFlYjE0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ODdlNjNhNjc1Mjg4MmJmOGQ2MWJlOWI5MTk1MDA0YzhiYTU2ZTliNjIzN2ExNzZhYWYyMzg3ZmI0ZDExZDlmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.UwtQNJpo1KK1dWggsTLyGbszeFcupE2sQucgsJvVLqc",
+    img: "https://gyaanarth.com/wp-content/uploads/2022/06/logo-11.jpg",
 
     school:
       "University  Institute of Engineering and  Technology, Panjab University, Chandigarh",
@@ -209,7 +186,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://private-user-images.githubusercontent.com/130601992/343964678-9317cbab-65e7-4d28-8318-1d78caae9214.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODExMTAsIm5iZiI6MTcyMTQ4MDgxMCwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Njc4LTkzMTdjYmFiLTY1ZTctNGQyOC04MzE4LTFkNzhjYWFlOTIxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDY5M2QxOTEwMDVhYzA2ZDdmYTJkNDg2ZDQ3NDU1ZDA0NGJiMzk1OWNhNjJmZTkzMjc5NzJiOTUxZWNjY2YyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nC5FXkkvlBt46nvB0LHAaDeN_wd6dqTi45q1LIGCyGk",
+    img: "https://www.educationnews.shiksha/wp-content/uploads/2020/12/up.logo_.png",
     school: "Shri Devi Prasad Intermediate College, Prayagraj",
     date: " july 2018 - march 2019",
     grade: "74%",
@@ -218,7 +195,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://private-user-images.githubusercontent.com/130601992/343964678-9317cbab-65e7-4d28-8318-1d78caae9214.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODExMTAsIm5iZiI6MTcyMTQ4MDgxMCwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTY0Njc4LTkzMTdjYmFiLTY1ZTctNGQyOC04MzE4LTFkNzhjYWFlOTIxNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xZDY5M2QxOTEwMDVhYzA2ZDdmYTJkNDg2ZDQ3NDU1ZDA0NGJiMzk1OWNhNjJmZTkzMjc5NzJiOTUxZWNjY2YyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.nC5FXkkvlBt46nvB0LHAaDeN_wd6dqTi45q1LIGCyGk",
+    img: "https://www.educationnews.shiksha/wp-content/uploads/2020/12/up.logo_.png",
     school: "Shri Devi Prasad Intermediate College, Prayagraj",
     date: "Apr 2016 - Apr 2017",
     grade: "84%",
@@ -229,50 +206,33 @@ export const education = [
 
 export const projects = [
   {
-    id: 3,
-    title: "J.N. Hospital",
-    date: "july 2024 - july 2024",
-    description:
-      "I developed a comprehensive hospital management web application with a focus on both frontend and backend development. The frontend is built using React to ensure a seamless and user-friendly interface, while the backend is implemented with Node.js. MongoDB is used for efficient data storage and management. The application features a responsive design that ensures accessibility across desktops, tablets, and mobile devices. It includes intuitive navigation to simplify access to various sections such as doctor registration, appointment booking, and user profiles. Doctors can register by providing necessary details such as name, specialization, and contact information and can manage their profiles and update their availability for appointments. Users can register and manage their profiles, view available doctors, and book time slots for consultations. They also have the ability to view, reschedule, or cancel their appointments. The use of modern web technologies ensures a robust and scalable solution, aiming to streamline hospital management processes by providing an efficient platform for doctor registration and patient appointment booking.",
-    image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: [
-      "React",
-      "React-Redux",
-      "Antd Libary",
-      "Express.js",
-      "MongoDB",
-      "Node.js",
-    ],
-    category: "web app",
-    github: "https://github.com/Sachiinkk/J.N.-Hospital",
-    // webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
     id: 9,
-    title: "Goonj 2024",
+    title: "Job seeking",
     date: "jan 2024 -  feb 2024",
-    description:
-      "Goonj is a comprehensive full stack project designed to provide a seamless interface for participants. Developed as a collaborative team effort, Goonj aims to facilitate efficient interaction and engagement through a user-friendly platform. The project integrates both front-end and back-end technologies, ensuring robust performance and a smooth user experience. Our goal was to create a reliable and accessible system that meets the needs of our participants effectively.",
-    image:
-      "https://private-user-images.githubusercontent.com/130601992/343961755-2deffa93-ba4d-4991-9a58-821ff3650f73.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODA3NDUsIm5iZiI6MTcyMTQ4MDQ0NSwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxNzU1LTJkZWZmYTkzLWJhNGQtNDk5MS05YTU4LTgyMWZmMzY1MGY3My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzAwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMmZjNTE4ZTQwZTAzMmRhZDA5MmM1YTg4YTgwMGEwYzYxNmM5OGQ3ODRmOWIxNzllMjUyZmUyNjNiNDI4ZjNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.XHilZnZtuuiszK1gWNwxGdGk3UAaD_7A-zKgq6Tn6CA",
-    tags: ["TypeScript", "javaScript", "SCSS"],
+    description: `
+  Developed a Job-Seeking Website using Node.js and React, featuring secure authentication and efficient job matching. The platform includes:
+  Features:
+  Employer Registration: Employers can register to hire employees for various roles.
+  Backend Development: Built the backend using Node.js to handle authentication and data management.
+  Frontend Development: Created the user interface with React, ensuring a responsive and engaging experience.
+  Database Management: Utilized MongoDB to store and manage user data, job postings, and resumes.Developed key features for both employers and job seekers to streamline the job matching process.Used JSON web tokens for the Authentication.Testing and Optimization: Ensured platform reliability and performance through thorough testing and optimization.`,
+    image: "https://i.imgur.com/kgenzZV.png",
+    tags: ["React.js", "MongoDB", "Node.js", "Express.js", "Redux"],
     category: "web app",
-    github: "https://github.com/Sachiinkk/Goonj2024",
-    webapp: "https://www.goonjuiet.com/",
+    github: "https://github.com/Sachiinkk/JOBZe",
+    webapp: "",
   },
   {
     id: 0,
     title: "Family Golf",
     date: "Apr 2024 - Apr 2024",
     description:
-      "amily Golf is an animated front-end website designed to provide an engaging and visually appealing experience. Created using HTML, CSS, and JavaScript, this project showcases dynamic animations and interactive elements that enhance user attraction. The goal of Family Golf is to offer a fun and immersive online environment that appeals to users of all ages, making it a standout example of effective web design and development.",
-    image:
-      "https://private-user-images.githubusercontent.com/130601992/343961737-0cc3a36a-5e8e-49c0-8973-0f0ba13e4592.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODAzNzYsIm5iZiI6MTcyMTQ4MDA3NiwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxNzM3LTBjYzNhMzZhLTVlOGUtNDljMC04OTczLTBmMGJhMTNlNDU5Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMjU0MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTNkNzJlNzFhMGMxMjk4ZDU3MmYxMzA5OWI5MGQyYzFkZDdmZGI5MDQ3OTI3MDEyMjMyOTI5YTU5NDAxNTFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Bl0TnlSl-HXxnGRKrqoCFFFhhtBopFSxlq4Gndoyoo4",
+      "Family Golf is an animated front-end website designed to provide an engaging and visually appealing experience. Created using HTML, CSS, and JavaScript, this project showcases dynamic animations and interactive elements that enhance user attraction. The goal of Family Golf is to offer a fun and immersive online environment that appeals to users of all ages, making it a standout example of effective web design and development.",
+    image: "https://i.imgur.com/7DdOXKH.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Sachiinkk/Family-Golf",
-    webapp: "https://vercel.com/sachiinkks-projects/family-golf",
+    webapp: "https://family-golf-seven.vercel.app/",
     // member: [
     //   {
     //     name: "Rishav Chanda",
@@ -290,16 +250,15 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Movix",
+    title: "Chat Application",
     date: "May 2024",
     description:
-      "MOvix is a dynamic web application inspired by Netflix, developed using React and Redux for state management, with CSS for styling. This project aims to replicate the engaging and user-friendly interface of popular streaming services, providing users with a seamless browsing experience. MOvix demonstrates the power of modern web development technologies to create responsive and attractive interfaces, making it a compelling project for showcasing advanced front-end development skills",
-    image:
-      "https://private-user-images.githubusercontent.com/130601992/343961995-fe9de95e-7100-49e5-9dc7-29fa8a2d8aee.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODA2NzgsIm5iZiI6MTcyMTQ4MDM3OCwicGF0aCI6Ii8xMzA2MDE5OTIvMzQzOTYxOTk1LWZlOWRlOTVlLTcxMDAtNDllNS05ZGM3LTI5ZmE4YTJkOGFlZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMjU5MzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ODliNzE1OTQ0MzVhNmU0MDI4YmUxMWYwM2YyYTEzYWM4NjM1MThlMTA3NTA2Y2ZlMmI1NjVkODc4NzAxZjJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CcudpmWjNXfXdZrCrgEvmduxF7jXlP83L3MDB351Xm4",
-    tags: ["React Js", "Redux"],
+      "A MERN chat application** built using MongoDB, Express.js, React.js, and Node.js provides a real-time messaging platform with features like user authentication, chat rooms, and message history. MongoDB serves as the database to store user data and chat history, while Express.js handles server-side logic and API endpoints. The frontend, developed with React.js, offers a dynamic user interface for real-time messaging, and Node.js manages the server-side operations. Real-time communication is powered by Socket.IO, enabling bidirectional data flow between the server and clients. The application supports.JWT-based authentication for secure login and registration. Messages are stored in MongoDB for persistence, and the chat rooms feature allows multiple group conversations. Overall, the MERN stack provides a scalable and efficient solution for building interactive and dynamic chat applications.",
+    image: "https://i.imgur.com/rnTdKt6.png",
+    tags: ["React Js", "Redux", "MongoDB", "Node.js ", "Express.js"],
     category: "web app",
-    github: "https://github.com/Sachiinkk/Movix",
-    webapp: "https://vercel.com/sachiinkks-projects/movix",
+    github: "https://github.com/Sachiinkk/ChatApplication",
+    webapp: "https://newchat-production.onrender.com",
   },
   {
     id: 2,
@@ -307,8 +266,7 @@ export const projects = [
     date: "June 2024 - June 2024",
     description:
       "worked on the frontend development of a food delivery application named Foodie-Point, aiming to provide users with a friendly and amazing interface. The project leverages React to create a seamless and engaging user experience for browsing, ordering, and tracking food deliverie",
-    image:
-      "https://private-user-images.githubusercontent.com/130601992/350693476-913af88f-8b6a-4bfc-95ca-46194ee82621.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE0ODA5ODIsIm5iZiI6MTcyMTQ4MDY4MiwicGF0aCI6Ii8xMzA2MDE5OTIvMzUwNjkzNDc2LTkxM2FmODhmLThiNmEtNGJmYy05NWNhLTQ2MTk0ZWU4MjYyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyMFQxMzA0NDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTJiNjUwYTFlNDM2ZDc1YzY3NWViOTQ0ZmM3YTE1NDljODU4YWMxZDFmZWU1MmZjMWJjYjcwYjMzNzE3MjA4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.eSbktZUt8yYVyWeS0UjalxbNpHBnUeHvneYpBEb57MI",
+    image: "https://i.imgur.com/vK1fNml.png",
     tags: ["React", "React-Redux"],
     category: "web app",
     github: "https://github.com/Sachiinkk/Foodie-point",
